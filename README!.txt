@@ -7,7 +7,7 @@ Pagina web: Login tabla usando CRUD
 
 Editor : vs code
 
-Node.js
+Node.js, Handlebars
 
 servidor : MySQL
 
